@@ -33,7 +33,7 @@
 
 ## Características do Golang
 
-* Tipagem estática e forte
+* Tipagem estática e forte com suporte a inferência
 * Programação estruturada (estrutura condicional, repetição, iteração e etc)
 * Programação concorrente (*goroutines*, *channels*)
 * Organização de código por *packages*
