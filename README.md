@@ -40,7 +40,7 @@ Para instalar acesse o site oficial do [Go](https://go.dev).
 
 * Google
 * Pagar.me
-* CockroachDB
+* Cockroach Labs
 * Mercado Livre
 * Netflix
 * PicPay
