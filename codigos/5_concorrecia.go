@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	channel := make(chan string)
-	defer close(channel)
+	defer fmt.Println("Fim do programa!")
 
 	go GoroutinePrimeira(channel)
 	go GoroutineSegunda(channel)
