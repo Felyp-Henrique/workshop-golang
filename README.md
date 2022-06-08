@@ -76,9 +76,15 @@ func main() {
 
 * [Sintaxe em geral](codigos)
 
+## Conheça mais
+
+* [Go Tour](https://go.dev/tour/welcome/1)
+* [Go by Example (tutorias)](https://gobyexample.com/)
+* [Awesome Go (repositório)](https://github.com/avelino/awesome-go)
+* [A Linguagem de Programação Go (livro)](https://www.amazon.com.br/Linguagem-Programa%C3%A7%C3%A3o-Go-Alan-Donovan/dp/8575225464/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=150VO5W82ZUWY&keywords=go&qid=1654641511&sprefix=golang%2Caps%2C234&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
+
+
 ## Fontes
 
 * [Site Oficial](https://go.dev)
 * [A Linguagem de Programação Go (livro)](https://www.amazon.com.br/Linguagem-Programa%C3%A7%C3%A3o-Go-Alan-Donovan/dp/8575225464/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=150VO5W82ZUWY&keywords=go&qid=1654641511&sprefix=golang%2Caps%2C234&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
-* [Go by Example (tutorias)](https://gobyexample.com/)
-* [Awesome Go (repositório)](https://github.com/avelino/awesome-go)
