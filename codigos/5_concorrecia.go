@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
 	channel := make(chan string)
+	defer close(channel)
 
 	go GoroutinePrimeira(channel)
 	go GoroutineSegunda(channel)
@@ -21,8 +22,6 @@ func main() {
 	for i := 0; i < 1000; i++ {
 		channel <- fmt.Sprint(i)
 	}
-
-	close(channel)
 }
 
 func GoroutinePrimeira(channel chan string) {
