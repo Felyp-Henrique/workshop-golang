@@ -46,6 +46,7 @@
 * Eficiente na compilação e execução
 * Pode ser usado em computação gráfica, aplicações móveis, web, *machine learning*, redes, ferramentas de linha de comando e entre outros
 * Semelhança superficial a liguagem C
+* Interoperável com a linguagem C
 * Retrocompatibilidade com versões anteriories
 
 Para instalar acesse o site oficial do [Go](https://go.dev).
