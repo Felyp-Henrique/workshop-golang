@@ -5,7 +5,7 @@
     <br/>
     <h3>
         "Crie software rápido, confiável e eficiente em escala" -
-        <a href="https://go.dev">Go</a>
+        <a target="_blank" href="https://go.dev">Go</a>
     </h3>
 </div>
 
