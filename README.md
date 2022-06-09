@@ -20,6 +20,7 @@
 
 * Tipagem estática e forte com suporte a inferência
 * Programação estruturada (estrutura condicional, repetição, iteração e etc)
+* Programação imperativo (*goto*)
 * Programação concorrente (*goroutines*, *channels*)
 * Organização de código por *packages*
 * Criou o comando *defer*
